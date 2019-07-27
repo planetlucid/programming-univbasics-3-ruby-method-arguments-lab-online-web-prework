@@ -1,5 +1,6 @@
-name = name
-def introduction  #introduction
+#introduction
+
+def introduction  
   puts "Hi, my name is #{name}."
 end
 
